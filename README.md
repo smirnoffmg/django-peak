@@ -4,10 +4,10 @@ Django Peak is a Django competency matrix and learning framework that can be use
 
 ## Django Competency Matrix
 
-### Level 1: Beginner
+### [Level 1: Beginner](/Level%201:%20Beginner/README.md)
 | Skill Area                     | Description                                                                     |
 | ------------------------------ | ------------------------------------------------------------------------------- |
-| Understanding of Django Basics | Familiarity with Django's architecture, MVC pattern, and basic commands.        |
+| Understanding of Django Basics | Familiarity with Django's architecture, MVC/MVT pattern, and basic commands.    |
 | Models and Databases           | Basic understanding of models, migrations, and simple queries.                  |
 | Views and URLs                 | Ability to create basic views and map URLs.                                     |
 | Templates                      | Knowledge of Django templating language and ability to create simple templates. |
