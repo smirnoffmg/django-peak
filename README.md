@@ -51,8 +51,11 @@ Questions to ask yourself:
 - What are Django context processors, and when might you use them in a project?
 - Describe the process of creating custom template tags and filters in Django.
 - What are `F` objects in Django, and how can they be used to perform database updates efficiently?
-- How can you use the distinct() method in a QuerySet to retrieve unique values?
-- Describe the role of the select_for_update() method in Django, and in what scenarios is it useful?
+- How can you use the `distinct()` method in a QuerySet to retrieve unique values?
+- Describe the role of the `select_for_update()` method in Django, and in what scenarios is it useful?
+- What are signals in Django, and why are they useful in web development?
+- What is the role of the @receiver decorator in connecting signal handlers to signals?
+- Describe the differences between built-in signals like pre_save, post_save, and post_delete in Django.
 
 ### [Level 3: Advanced](/Level%203:%20Advanced/README.md)
 | Skill Area                  | Description                                                                                    |
@@ -76,6 +79,11 @@ Questions to ask yourself:
 - What are the advantages of using a content delivery network (CDN) with Django for serving static files?
 - Describe the use cases for Django's custom management commands.
 - Explain the purpose of the `defer()` and `only()` methods in Django QuerySets, and how do they impact query performance?
+- Describe the purpose of the `@transaction.on_commit` decorator in signal handling.
+- What are some common use cases for Django signals in real-world applications?
+- How do you handle exceptions raised in signal handlers to prevent them from affecting the main application flow?
+- How can you ensure that signal handlers are executed in a specific order when multiple handlers are connected to the same signal?
+- Describe the process of unit testing signal handlers in Django applications.
 
 
 ### [Level 4: Expert](/Level%204:%20Expert/README.md)
