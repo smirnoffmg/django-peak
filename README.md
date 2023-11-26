@@ -13,7 +13,7 @@ Django Peak is a Django competency matrix and learning framework that can be use
 | Templates                      | Knowledge of Django templating language and ability to create simple templates. |
 | Forms                          | Basic understanding of Django forms.                                            |
 
-### Level 2: Intermediate
+### [Level 2: Intermediate](/Level%202:%20Intermediate/README.md)
 | Skill Area               | Description                                                                        |
 | ------------------------ | ---------------------------------------------------------------------------------- |
 | Advanced Models          | Proficiency in complex queries, relationships between models, and custom managers. |

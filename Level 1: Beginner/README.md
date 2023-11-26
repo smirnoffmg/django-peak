@@ -1,3 +1,6 @@
+Table of Contents
+---
+
 1. Django's Architecture
 
 Concepts: Understand the Model-View-Template (MVT) pattern, which is Django's adaptation of the MVC (Model-View-Controller) architecture.
@@ -57,6 +60,7 @@ Suggested Learning Resources for Django's Admin Interface
 - Practice: The best way to learn the Django admin is by using it. Try adding different models to the admin site in your practice projects and explore the various customization options.
 
 Practice Projects Ideas
+---
 
 As a beginner, building simple projects can greatly enhance your learning. Consider starting with projects like:
 - Blog Application: Implement basic features like posts, comments, and user authentication.
