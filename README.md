@@ -22,7 +22,7 @@ Django Peak is a Django competency matrix and learning framework that can be use
 | Security                 | Basic understanding of security practices in Django.                               |
 | Performance Optimization | Basic database optimization and query performance improvement.                     |
 
-### Level 3: Advanced
+### [Level 3: Advanced](/Level%203:%20Advanced/README.md)
 | Skill Area                  | Description                                                                                    |
 | --------------------------- | ---------------------------------------------------------------------------------------------- |
 | Django ORM Mastery          | Advanced knowledge of Django ORM, including complex querysets and performance tuning.          |
