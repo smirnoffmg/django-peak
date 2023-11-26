@@ -31,7 +31,7 @@ Django Peak is a Django competency matrix and learning framework that can be use
 | Scalability and Performance | Techniques for scaling Django applications and advanced performance optimization.              |
 | Deployment and DevOps       | Knowledge of deploying Django applications and integrating with DevOps tools.                  |
 
-### Level 4: Expert
+### [Level 4: Expert](/Level%204:%20Expert/README.md)
 | Skill Area                       | Description                                                                               |
 | -------------------------------- | ----------------------------------------------------------------------------------------- |
 | Contribution to Django Community | Contributing to Django's open-source projects or community initiatives.                   |
@@ -40,7 +40,7 @@ Django Peak is a Django competency matrix and learning framework that can be use
 | Integration Proficiency          | Expertise in integrating Django with various systems and technologies.                    |
 | Mentoring and Leadership         | Ability to mentor others, lead Django projects, and make architectural decisions.         |
 
-### Level 5: Master
+### [Level 5: Master](/Level%205:%20Master/README.md)
 | Skill Area                   | Description                                                                                                               |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Innovative Use of Django     | Pioneering new ways to use Django or solving complex problems with innovative solutions.                                  |
