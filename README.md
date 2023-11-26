@@ -5,6 +5,7 @@ Django Peak is a Django competency matrix and learning framework that can be use
 ## Django Competency Matrix
 
 ### [Level 1: Beginner](/Level%201:%20Beginner/README.md)
+
 | Skill Area                     | Description                                                                     |
 | ------------------------------ | ------------------------------------------------------------------------------- |
 | Understanding of Django Basics | Familiarity with Django's architecture, MVC/MVT pattern, and basic commands.    |
@@ -12,7 +13,6 @@ Django Peak is a Django competency matrix and learning framework that can be use
 | Views and URLs                 | Ability to create basic views and map URLs.                                     |
 | Templates                      | Knowledge of Django templating language and ability to create simple templates. |
 | Forms                          | Basic understanding of Django forms.                                            |
-
 
 Questions to ask yourself:
 
@@ -28,6 +28,7 @@ Questions to ask yourself:
 - Explain the concept of Django apps and their role in a Django project.
 
 ### [Level 2: Intermediate](/Level%202:%20Intermediate/README.md)
+
 | Skill Area               | Description                                                                        |
 | ------------------------ | ---------------------------------------------------------------------------------- |
 | Advanced Models          | Proficiency in complex queries, relationships between models, and custom managers. |
@@ -37,6 +38,7 @@ Questions to ask yourself:
 | Performance Optimization | Basic database optimization and query performance improvement.                     |
 
 Questions to ask yourself:
+
 - Describe the differences between function-based views and class-based views (CBVs) in Django.
 - How do you define custom model methods in Django models?
 - What is the purpose of database indexes, and how do you add them to Django models?
@@ -54,10 +56,11 @@ Questions to ask yourself:
 - How can you use the `distinct()` method in a QuerySet to retrieve unique values?
 - Describe the role of the `select_for_update()` method in Django, and in what scenarios is it useful?
 - What are signals in Django, and why are they useful in web development?
-- What is the role of the @receiver decorator in connecting signal handlers to signals?
-- Describe the differences between built-in signals like pre_save, post_save, and post_delete in Django.
+- What is the role of the `@receiver` decorator in connecting signal handlers to signals?
+- Describe the differences between built-in signals like `pre_save`, `post_save`, and `post_delete` in Django.
 
 ### [Level 3: Advanced](/Level%203:%20Advanced/README.md)
+
 | Skill Area                  | Description                                                                                    |
 | --------------------------- | ---------------------------------------------------------------------------------------------- |
 | Django ORM Mastery          | Advanced knowledge of Django ORM, including complex querysets and performance tuning.          |
@@ -67,6 +70,7 @@ Questions to ask yourself:
 | Deployment and DevOps       | Knowledge of deploying Django applications and integrating with DevOps tools.                  |
 
 Questions to ask yourself:
+
 - Explain how Django's ORM handles database migrations behind the scenes.
 - What are database transactions, and how can you ensure data consistency in complex operations?
 - How do you use the `update()` method in Django QuerySets, and what are the implications for database transactions?
@@ -85,8 +89,8 @@ Questions to ask yourself:
 - How can you ensure that signal handlers are executed in a specific order when multiple handlers are connected to the same signal?
 - Describe the process of unit testing signal handlers in Django applications.
 
-
 ### [Level 4: Expert](/Level%204:%20Expert/README.md)
+
 | Skill Area                       | Description                                                                               |
 | -------------------------------- | ----------------------------------------------------------------------------------------- |
 | Contribution to Django Community | Contributing to Django's open-source projects or community initiatives.                   |
@@ -96,6 +100,7 @@ Questions to ask yourself:
 | Mentoring and Leadership         | Ability to mentor others, lead Django projects, and make architectural decisions.         |
 
 Questions to ask yourself:
+
 - How can you contribute to the Django community, and what are some ways to get involved in Django development?
 - Describe the architectural considerations for building large-scale Django applications.
 - What is a message queue, and how can it be integrated with Django for asynchronous processing?
@@ -106,6 +111,7 @@ Questions to ask yourself:
 - What are the key considerations for deploying Django applications in a containerized environment using Docker?
 
 ### [Level 5: Master](/Level%205:%20Master/README.md)
+
 | Skill Area                   | Description                                                                                                               |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Innovative Use of Django     | Pioneering new ways to use Django or solving complex problems with innovative solutions.                                  |
@@ -115,6 +121,7 @@ Questions to ask yourself:
 | Education and Advocacy       | Educating others about Django, promoting its adoption, and contributing to the growth and direction of the framework.     |
 
 Questions to ask yourself:
+
 - What are the emerging trends and technologies in web development that can be integrated with Django for innovative solutions?
 - Describe a complex problem you solved using Django in a unique and innovative way.
 - How can Django be used to build real-time data analytics dashboards for monitoring large datasets?

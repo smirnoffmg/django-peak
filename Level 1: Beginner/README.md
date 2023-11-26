@@ -50,12 +50,14 @@ Suggested Learning Resources:
 Concepts: Understanding how to use Django's built-in admin interface to manage application data.
 
 Learning Path:
+
 - Admin Site Registration: Learn how to register your models with the Django admin site to make them manageable through the admin interface.
 - Customizing Admin Interface: Basic customization of the admin interface, such as defining which fields are displayed in the list view, customizing forms, and organizing fields.
 - Managing Data: Practice using the admin interface to create, update, and delete records of your models. Understand how to navigate through different models and use filters and search functionality.
 - Security: Learn about the security aspects of the admin interface, including creating and managing user accounts and setting permissions.
 
 Suggested Learning Resources for Django's Admin Interface
+
 - Django Official Documentation: The admin site documentation is detailed and provides step-by-step guides.
 - Practice: The best way to learn the Django admin is by using it. Try adding different models to the admin site in your practice projects and explore the various customization options.
 
@@ -63,6 +65,7 @@ Practice Projects Ideas
 ---
 
 As a beginner, building simple projects can greatly enhance your learning. Consider starting with projects like:
+
 - Blog Application: Implement basic features like posts, comments, and user authentication.
 - Portfolio Website: Create a personal site showcasing your work, using Django's templating system.
 - To-Do List App: A simple application for managing to-do items can help you understand CRUD (Create, Read, Update, Delete) operations in Django.
